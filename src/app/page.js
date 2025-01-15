@@ -21,7 +21,7 @@ export default function Home() {
           marginBottom: "20px",
         }}
       >
-        <Image
+        <img
           src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/SUAVE-landingpage_da342795-ffc9-458c-b27a-cd21ad79a691.png.webp?alt=media&token=0e580982-f224-4a09-a824-8481de739dd8"
           alt="Jewelry Store Banner"
           layout="fill"
