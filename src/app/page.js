@@ -66,6 +66,76 @@ export default function Home() {
           Explore Collection
         </button>
       </div>
+      <div>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/pexels-christian-heitz-285904-842711-2.jpg?alt=media&token=14ac8996-f986-4ba0-859f-972d673493dd"
+          alt="Jewelry Store Banner"
+          style={{
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover", // Ensures the image covers the entire container
+            objectPosition: "center", // Centers the image
+          }}
+        />
+      </div>
+      <div>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/pexels-christian-heitz-285904-842711-2.jpg?alt=media&token=14ac8996-f986-4ba0-859f-972d673493dd"
+          alt="Jewelry Store Banner"
+          style={{
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover", // Ensures the image covers the entire container
+            objectPosition: "center", // Centers the image
+          }}
+        />
+      </div>
+      <div>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/pexels-christian-heitz-285904-842711-2.jpg?alt=media&token=14ac8996-f986-4ba0-859f-972d673493dd"
+          alt="Jewelry Store Banner"
+          style={{
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover", // Ensures the image covers the entire container
+            objectPosition: "center", // Centers the image
+          }}
+        />
+      </div>
+      <div>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/pexels-christian-heitz-285904-842711-2.jpg?alt=media&token=14ac8996-f986-4ba0-859f-972d673493dd"
+          alt="Jewelry Store Banner"
+          style={{
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover", // Ensures the image covers the entire container
+            objectPosition: "center", // Centers the image
+          }}
+        />
+      </div>
+      <div>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/bergue-1b641.appspot.com/o/pexels-christian-heitz-285904-842711-2.jpg?alt=media&token=14ac8996-f986-4ba0-859f-972d673493dd"
+          alt="Jewelry Store Banner"
+          style={{
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover", // Ensures the image covers the entire container
+            objectPosition: "center", // Centers the image
+          }}
+        />
+      </div>
     </div>
   );
 }
